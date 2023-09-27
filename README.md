@@ -1,4 +1,4 @@
-# Welcome Contributors to the Hacktoberfest Technical Documentation Repository! 🚀
+# Welcome Contributors to the Best VS code extensions for Reactjs Repository! 🚀
 
 To ensure a smooth and productive contribution process, please follow these guidelines:
 
