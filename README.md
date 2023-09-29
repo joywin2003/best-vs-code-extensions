@@ -11,6 +11,7 @@ To ensure a smooth and productive contribution process, please follow these guid
 
 3. **Contribution File:** In the root of the repository, you'll find a `CONTRIBUTORS.md` file. Please add your name to this file in alphabetical order. Your contributions are appreciated and recognized! 👏
 
+4. **The most Important step for the PR to be accepted: Please like the repo 🌟😉
 ## How to Contribute
 
 To contribute to our documentation:
