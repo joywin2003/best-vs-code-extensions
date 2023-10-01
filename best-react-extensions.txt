@@ -2,32 +2,62 @@ Best VS code Extensions for react:
 
 //Name: its description
 
-1. Python:
+1. ES7+ React/Redux/React-Native snippets
+ES7+React/Redux/React-Native snippets
+Source: Visual Studio Market Place
 
-	1. Kite AutoComplete AI Code:
-		Kite is an advancement in the direction of ease of writing code. It is
-		based on AI which enables writing the code quickly in VS Code. When 
-		you call a function, Kite will show the arguments required to call it.
-		If you hover on any symbol, it will show a summary regarding it. It 
-		provides quick auto-completion and shows only the right thing at a time. 
-		It can be used for different programming languages apart from Python 
-		such as JavaScript, Go, etc.
+ES7+ React/Redux/React-Native snippets is one of the most used extensions by React and 						 React Native developers. It provides many shorthand prefixes to accelerate development and help 	developers create code snippets and syntax for React, Redux, GraphQL, and React Native. So, this is a great extension to speed up your development process.
 
-	2. AREPL for python:
-		It provides code evaluation in real-time. As you start typing, the code will keep on running which helps to check 
-		if the code is right or not during the time of writing itself. If an error is found, it will be reflected in the 
-		editor instantly with logs. It can be configured accordingly to fit user experience from the settings. One doesn’t 
-		need to run the code, AREPL automatically evaluates it.
+Features
 
-	3. Better Comments:
-		Better Comments as the name suggest helps to create comments that are easily understandable. You can easily 
-		distinguish between different types of comments like alerts, todos, queries, etc as they are colored differently 
-		in order to categorize them. However, you can also change the color setting of the comments. This extension can 
-		also be used for languages other than Python.
+    Easy to set up.
+    Speeds up the React application coding process.
+    Supports both React and React Native.
+    Supports multiple languages.
+    Supports TypeScript.
 
-	4. Python Test Explorer:
-		The Python Test Explorer extension allows you to run your Python unittest or Pytest tests with the Test Explorer UI.
-		It shows a Test Explorer in the Test view in VS Code’s sidebar with all the tests that are found. A failed test’s 
-		log is displayed when the test is selected in the explorer providing an excellent user interface and debugging 
-		capabilities.
+2. VSCode React Refactor
+VSCode React Refactor
+Source: Visual Studio Market Place
+
+VSCode React Refactor is another VS Code extension designed explicitly for React developers. Refactoring can be challenging when working on big projects. In such situations, you can use VSCode React Refactor to refactor your code quickly, and it will extract pieces of JSX code into new classes, components, and so on. In addition, it supports TypeScript, TSX, regular functions, classes, and arrow functions. More than 1.3 million people have downloaded VSCode React Refactor.
+Installation
+
+Features
+
+    Compatible with React Hooks API.
+    Handles bindings for key attributes and functions.
+    Supports TSX and TypeScript.
+    Supports functions, classes, and arrow functions.
+
+3. Prettier
+Prettier- Code formatter
+Source: Visual Studio Market Place
+
+Prettier is an opinionated code formatter used for automatic code formatting. Although this extension is not explicitly designed for React, you can use it to format your React projects and maintain a standard style guide through the entire code base. More than 24 million developers already use the VS Code Prettier extension.
+Installation
+
+Features
+
+    Supports JavaScript, TypeScript, JSON, CSS, and more.
+    Has code formatting with keyboard shortcuts.
+    Format the scripts automatically to be read easily.
+    Is easy to set up.
+
+
+4. Import Cost
+Source: Visual Studio Market Place
+
+Import Cost is another excellent VS Code extension for React developers. Installing and importing packages is a common and necessary task in React application development. However, there can be performance concerns when importing multiple packages. The Import Cost extension displays the package size as soon as you import the library in the VS Code editor, helping you decide the best installation.
+
+Features
+
+    JavaScript- and TypeScript-friendly.
+    Several import types are supported, including default, complete content, and selective.
+    Webpack is used to assess the package sizes.
+
+5. Simple React Snippets
+Source: Visual Studio Market Place
+
+Simple React Snippets is a simple, yet extremely useful VS Code extension for React developers. It provides a set of handpicked React code snippets that you can easily add to your code by typing a few letters. For example, typing imr will import React to your component.
 
