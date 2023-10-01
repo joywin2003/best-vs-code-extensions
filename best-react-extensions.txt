@@ -1,3 +1,33 @@
 Best VS code Extensions for react:
 
-1:Name: its description
+//Name: its description
+
+1. Python:
+
+	1. Kite AutoComplete AI Code:
+		Kite is an advancement in the direction of ease of writing code. It is
+		based on AI which enables writing the code quickly in VS Code. When 
+		you call a function, Kite will show the arguments required to call it.
+		If you hover on any symbol, it will show a summary regarding it. It 
+		provides quick auto-completion and shows only the right thing at a time. 
+		It can be used for different programming languages apart from Python 
+		such as JavaScript, Go, etc.
+
+	2. AREPL for python:
+		It provides code evaluation in real-time. As you start typing, the code will keep on running which helps to check 
+		if the code is right or not during the time of writing itself. If an error is found, it will be reflected in the 
+		editor instantly with logs. It can be configured accordingly to fit user experience from the settings. One doesn’t 
+		need to run the code, AREPL automatically evaluates it.
+
+	3. Better Comments:
+		Better Comments as the name suggest helps to create comments that are easily understandable. You can easily 
+		distinguish between different types of comments like alerts, todos, queries, etc as they are colored differently 
+		in order to categorize them. However, you can also change the color setting of the comments. This extension can 
+		also be used for languages other than Python.
+
+	4. Python Test Explorer:
+		The Python Test Explorer extension allows you to run your Python unittest or Pytest tests with the Test Explorer UI.
+		It shows a Test Explorer in the Test view in VS Code’s sidebar with all the tests that are found. A failed test’s 
+		log is displayed when the test is selected in the explorer providing an excellent user interface and debugging 
+		capabilities.
+
