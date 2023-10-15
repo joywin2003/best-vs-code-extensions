@@ -61,3 +61,38 @@ Source: Visual Studio Market Place
 
 Simple React Snippets is a simple, yet extremely useful VS Code extension for React developers. It provides a set of handpicked React code snippets that you can easily add to your code by typing a few letters. For example, typing imr will import React to your component.
 
+
+6. Reactotron
+Source: Visual Studio Marketplace
+
+Reactotron is a desktop app designed for inspecting React and React Native applications. The Visual Studio Code extension enables you to send logs, errors, and other data from your application to Reactotron for debugging and inspection.
+
+7. React-Native/React/Redux snippets for es6/es7
+Source: Visual Studio Marketplace
+
+This extension offers a collection of code snippets optimized for React, React Native, and Redux development, with a focus on ES6 and ES7 JavaScript syntax.
+
+8. Babel JavaScript
+
+Source: Visual Studio Marketplace
+
+Babel JavaScript provides language support for JavaScript ES201x, JSX, and Flow syntax commonly used in modern web development. It's especially beneficial for React development with advanced JavaScript features.
+
+9. Bracket Pair Colorizer 2
+
+Source: Visual Studio Marketplace
+
+While not React-specific, this extension colorizes matching brackets in your code, enhancing the readability of your React components and simplifying the identification of code blocks.
+
+Features:
+    Colorizes matching brackets for improved code readability.
+
+10. Auto Import
+
+Source: Visual Studio Marketplace
+
+Auto Import streamlines the process of importing modules and components in your React project, reducing the manual effort required for managing imports.
+
+Features:
+
+    Automatic module and component imports.
