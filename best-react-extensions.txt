@@ -61,3 +61,10 @@ Source: Visual Studio Market Place
 
 Simple React Snippets is a simple, yet extremely useful VS Code extension for React developers. It provides a set of handpicked React code snippets that you can easily add to your code by typing a few letters. For example, typing imr will import React to your component.
 
+6.TabOut:
+Source: Visual Studio Code
+Features
+	Tab out of quotes, brackets, etc for Visual Studio Code. 
+	This extension is enabled by default. 
+	You can override this behaviour in your settings: You can toggle the extension with the 'Toggle TabOut' command.
+
