@@ -105,4 +105,10 @@ Auto Import streamlines the process of importing modules and components in your 
 Features:
 
     Automatic module and component imports.
+11. Swimm
+
+Source: Visual Studio 
+
+	1.This lets you capture your thoughts during the process of coding itself, ensuring that the documentation is fresh and accurate, 	and conveniently accessible right from within the IDE.
+	2.With Swimm's IDE plugin, as a React dev, you can simplify the documentation process, making it more efficient and enhancing your 	overall development experience.
 
