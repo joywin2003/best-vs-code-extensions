@@ -1,0 +1,80 @@
+Best VS code Extensions for Python:
+
+1. Python (Official Extension)
+   Source: Visual Studio Marketplace
+   The official Python extension for Visual Studio Code, providing rich language support, debugging, and intelligent code completion. It's a must-have for Python developers.
+   Features:
+    - Provides debugging capabilities.
+    - Offers intelligent code completion and suggestions.
+
+
+2. Python Docstring Generator
+   Source: Visual Studio Marketplace
+   Simplify your documentation process by automatically generating docstrings for your Python functions and classes. It helps improve code readability and maintainability.
+   Features:
+    - Automatically generates docstrings for Python functions and classes.
+    - Enhances code readability and maintainability.
+
+
+3. Pylance
+   Source: Visual Studio Marketplace
+   Pylance is a Microsoft-backed extension that enhances the Python development experience in VS Code. It provides features like type checking, code navigation, and auto-completion using the Pyright static type checking tool.
+   Features:
+    - Enhances Python development with features like type checking.
+    - Provides code navigation and auto-completion.
+    - Utilizes the Pyright static type checking tool.
+
+
+4. Visual Studio IntelliCode
+   Source: Visual Studio Marketplace
+   IntelliCode is an AI-assisted extension that provides intelligent code recommendations. While not Python-specific, it can be highly useful when writing Python code in VS Code.
+   Features:
+    - AI-assisted code recommendations.
+    - Useful for enhancing code quality in Python projects.
+
+
+5. Python Test Explorer
+   Source: Visual Studio Marketplace
+   Simplify testing in Python with this extension. It allows you to discover and run your Python tests directly from within Visual Studio Code. It supports popular testing frameworks like pytest and unittest.
+   Features:
+    - Allows you to discover and run Python tests within VS Code.
+    - Supports popular testing frameworks like pytest and unittest.
+
+
+6. Python-auto-venv
+   Source: Visual Studio Marketplace
+   Automatically creates and activates virtual environments for your Python projects. It helps keep your Python environments organized and isolated.
+   Features:
+    - Automatically creates and activates virtual environments for Python projects.
+    - Helps maintain organization and isolation of Python environments.
+
+
+7. Django Template
+   Source: Visual Studio Marketplace
+   If you're working with Django, this extension offers Django template syntax highlighting and snippets, making it easier to develop Django web applications in VS Code.
+   Features:
+    - Provides Django template syntax highlighting and snippets.
+    - Useful for developing Django web applications in VS Code.
+
+
+8. Jupyter
+   Source: Visual Studio Marketplace
+   This extension is designed for Jupyter Notebook users. It allows you to open, edit, and run Jupyter notebooks directly within Visual Studio Code.
+   Features:
+    - Allows you to open, edit, and run Jupyter notebooks directly in VS Code.
+
+
+9. MagicPython
+   Source: Visual Studio Marketplace
+   MagicPython is a Python syntax highlighter that helps you improve code readability by distinguishing variable names from function names, keywords, and more.
+   Features:
+    - Python syntax highlighter that improves code readability.
+    - Distinguishes variable names from function names, keywords, and more.
+
+
+10. Kite
+    Source: Visual Studio Marketplace
+    Kite is an AI-powered code completions and suggestions tool. While not exclusively Python, it provides valuable suggestions for Python developers in Visual Studio Code.
+    Features:
+    - AI-powered code completions and suggestions tool.
+    - Provides valuable suggestions for Python developers.
