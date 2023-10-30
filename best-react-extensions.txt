@@ -96,6 +96,8 @@ While not React-specific, this extension colorizes matching brackets in your cod
 Features:
     Colorizes matching brackets for improved code readability.
 
+Note:- This extension is now shipped natively in Vscode and is [Deprecated] .
+
 10. Auto Import
 
 Source: Visual Studio Marketplace
@@ -113,3 +115,25 @@ Features:
 	1.This lets you capture your thoughts during the process of coding itself, ensuring that the documentation is fresh and accurate, 	and conveniently accessible right from within the IDE.
 	2.With Swimm's IDE plugin, as a React dev, you can simplify the documentation process, making it more efficient and enhancing your 	overall development experience.
 
+12. JavaScript and TypeScript Nightly
+
+Source: Visual Studio Marketplace
+
+Features:
+	1:It allows you to use the latest version of TypeScript (typescript@next) as the built-in TypeScript version for VS Code. This means you can benefit from the newest features and bug fixes of TypeScript in your JavaScript and 	TypeScript projects
+	2:It does not affect workspace versions of TypeScript, or custom user typescript.tsdk settings, so you can still use different versions of TypeScript for different projects if you want.
+	3.It is useful for developers who want to experiment with the cutting-edge features of TypeScript, such as optional chaining, nullish coalescing, private fields, and more.
+
+13. Thunder Client
+
+Source: Visual Studio Marketplace
+
+features:
+	Lightweight and easy to use: Thunder Client has a simple and clean interface that is easy to learn and use.
+	Collections: Thunder Client allows you to save requests into collections, which makes it easy to organize and reuse your requests.
+	Environment variables: Thunder Client supports environment variables, which makes it easy to manage different environments for your APIs.
+	Scriptless testing: Thunder Client provides a GUI-based interface for testing API responses, which means you do not need to write any scripts.
+	CI/CD integration: Thunder Client can be integrated with CI/CD pipelines, which makes it easy to automate API testing.
+	Git sync: Thunder Client allows you to save your requests in a Git repository, which makes it easy to collaborate with others and keep track of your changes.
+	Local storage: Thunder Client saves all of your data locally on your device, which means you can work offline.
+	Syntax highlighting and VS Code themes: Thunder Client supports syntax highlighting and VS Code themes, which makes it easy to read and write your requests.
