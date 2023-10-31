@@ -137,3 +137,13 @@ features:
 	Git sync: Thunder Client allows you to save your requests in a Git repository, which makes it easy to collaborate with others and keep track of your changes.
 	Local storage: Thunder Client saves all of your data locally on your device, which means you can work offline.
 	Syntax highlighting and VS Code themes: Thunder Client supports syntax highlighting and VS Code themes, which makes it easy to read and write your requests.
+
+14. ESLint extension
+
+Source: Visual Studio Marketplace
+
+features:
+    The ESLint extension integrates ESLint into Visual Studio Code. ESLint is a tool that checks for errors and enforces code style.
+    The extension uses the ESLint library from your workspace folder. If not found there, it looks for a global ESLint install.
+    To install ESLint, run npm install eslint in the workspace for local install, or npm install -g eslint for global.
+    You may need to create an .eslintrc configuration file in new folders. Do this with the VS Code command Create ESLint configuration or by running npx eslint --init in the terminal.
