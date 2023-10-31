@@ -90,3 +90,28 @@ Best VS code Extensions for Python:
     - Re-run tests on save
     - Supports multi-root workspaces
     - Supports Unittest, Pytest and Testplan test frameworks and their plugins
+13.Tabnine: AI Autocomplete
+    Source: Visual Studio Marketplace
+    AI coding assistant with AI code completions and AI code chat right in the IDE, helping developers by generating code, writing unit tests and documentation,
+    Features:
+   - It uses advanced machine learning algorithms to provide intelligent code completions based on the context of your code. It suggests relevant code snippets, saving you time and effort
+   - Tabnine can generate blocks of code based on natural language description in comments.
+   - Tabnine provides real-time code completion suggestions as you type, helping you write code faster and with fewer errors
+
+14. AREPL for python
+   Source: Visual Studio Marketplace
+   A real-time python scratchpad
+   Features:
+   - Provides an interactive Python terminal integrated into VS Code.
+   - Automatically visualizes dataframes and matplotlib plots inline and Interactive inspector to view details of objects and plots.
+   - Integrates with the Visual Studio Code debugger, allows sharing Python terminals with other users in real-time.
+   - Less resource intensive than running a full IPython session.
+
+15. GitHub Copilot
+   Source: Visual Studio Marketplace
+   GitHub Copilot is an AI pair programmer that helps you write code faster and with fewer errors
+   Features:
+   - GitHub Copilot suggests code completions based on the context of your code. It can suggest relevant code snippets, entire function bodies, and even complex algorithms.
+   - GitHub Copilot supports a wide range of programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.
+   - It can Fix Bug, clean the code, make the code robust and document the code too.
+
