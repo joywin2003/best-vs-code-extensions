@@ -1,0 +1,33 @@
+Best VS Code Extensions for GoLang:
+
+1. Go (Official Extension)
+    Source: https://github.com/golang/vscode-go/wiki/tools
+    Features:
+    - Code completion - Intelligent suggestions for variables, methods, packages, etc.
+    - Signature help - Shows function signatures and documentation as you type.
+    - Go to definition - Jump to the source of whatever identifier is selected.
+    - Code formatting - Format your code using gofmt or goimports with shortcuts.
+    - Code refactoring - Rename, extract variables, add/remove import paths etc.
+    - Debugging - Launch and debug your Go programs right from VS Code.
+    - Linting - Live linting using golint, golangci-lint etc.
+    - Test execution - Run tests and view results right in the editor.
+    - Coverage - See test coverage for packages.
+    - Extensions - Integration with many popular Go tools like impl, fillstruct, gopls etc.
+
+2. Go Test Explorer
+    Source: Visual Studio Marketplace
+    Features:
+    - Tree view of tests in explorer
+    - Run/debug individual tests
+    - View test logs in output panel
+    - Filter tests by name
+    - Automatically run tests on save
+
+3. Go Test Explorer
+    Source: Visual Studio Marketplace
+    Features:
+    - Fast autocompletion
+    - Accurate code navigation
+    - Diagnostics for compile errors
+    - Rich hover information
+    - Go to definition
